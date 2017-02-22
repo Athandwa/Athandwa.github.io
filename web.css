@@ -1,0 +1,83 @@
+h1 {
+    font-size: 70px;
+    text-decoration: blink;
+    color: #00FFFF;
+   
+}
+body {
+    background-color: orange;
+
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+
+}
+
+td, th {
+    border: 3px solid black;
+    text-align: left;
+    padding: 8px;
+
+}
+th {
+    background: white;
+    font-size: 20px
+}
+h2 {
+    text-align: right;
+}
+h3 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+h4 {
+    font-size: 30px;
+    color: green;
+    text-align: left;
+}
+
+h5 {
+    font-size: 30px;
+    color: green;
+    text-align: right 
+}
+h6{
+    font-size: 30px;
+    color: green;
+}
+
+img{
+    border-radius: 50px;
+ }
+.bridge {
+    overflow: auto;
+    width: 70%;
+    float: right;
+    
+}
+.city img{ 
+    background-color: white;
+    float: right;
+}   
+.city {
+    width: 95%;
+    overflow: auto;	
+    margin-left: 20px;
+}
+.Tower img{
+    float: left;
+    margin-right: 20px;
+}
+.Tower{
+    overflow: auto;
+    width: 70%;
+    height: 90%;
+    font-color: orange;
+}
+.portswood {
+    overflow: auto;
+    width: 70%;
+    margin-right: 20px;
+}
