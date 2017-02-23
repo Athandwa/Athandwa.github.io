@@ -2,7 +2,7 @@ h1 {
     font-size: 70px;
     text-decoration: blink;
     color: #00FFFF;
-   
+    
 }
 body {
     background-color: orange;
@@ -29,8 +29,11 @@ h2 {
     text-align: right;
 }
 h3 {
-    font-size: 40px;
+    font-size: 20px;
     text-decoration: underline;
+}
+.historic h3{
+    color: blue;
 }
 h4 {
     font-size: 30px;
@@ -55,6 +58,7 @@ img{
     overflow: auto;
     width: 70%;
     float: right;
+    color: #CD5C5C;
     
 }
 .city img{ 
@@ -74,10 +78,18 @@ img{
     overflow: auto;
     width: 70%;
     height: 90%;
-    font-color: orange;
+    color: #CD5C5C;
 }
 .portswood {
     overflow: auto;
     width: 70%;
     margin-right: 20px;
+    color: #CD5C5C;
 }
+.footer {
+    text-align: center;
+    color: blue;
+    overflow: auto;
+    background: rgba(76, 175, 80, 0.3);
+}
+
